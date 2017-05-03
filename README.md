@@ -1,4 +1,4 @@
-Use
-	> npm install
-	> npm start
+Use \n
+	> npm install \n
+	> npm start \n
 End
