@@ -3,6 +3,7 @@
 
 Use react,youtube-api</br>
 </br>
+	> git clone https://github.com/YiTingLee/YoutubeSearch.git </br>
 	> npm install </br>
 	> npm start </br>
 End
